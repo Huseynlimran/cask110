@@ -2,9 +2,9 @@ import React from "react";
 
 export default function Chellek() {
   return (
-    <div className="container">
+    <div>
       <div className="subtitle">
-        <h1 className="title">Pivə Çəllək</h1>
+        <h1 className="title">Beer Cask</h1>
       </div>
       <div className="price">
         <p>Xirdalan 330/500 ml </p>

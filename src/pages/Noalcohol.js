@@ -1,56 +1,46 @@
 import React from 'react'
 
-export default function Pivebottle() {
+export default function Noalcohol() {
   return (
-        <div>
+    <div>
       <div className="subtitle">
-        <h1 className="title">Beer Bottle</h1>
+        <h1 className="title">No Alcohol Coctails</h1>
       </div>
       <div className="price">
-        <p>Efes zero</p>
-        <div className="line"></div>
-        <p>4 ₼</p>
-      </div>
-      <div className="price">
-        <p>Efes draft</p>
+        <p>Mojito  </p>
         <div className="line"></div>
         <p>6 ₼</p>
       </div>
       <div className="price">
-        <p>Efes pils</p>
+        <p>Arizona Sunset  </p>
         <div className="line"></div>
         <p>6 ₼</p>
       </div>
       <div className="price">
-        <p>Miller </p>
+        <p>Rainbow   </p>
         <div className="line"></div>
         <p>6 ₼</p>
       </div>
       <div className="price">
-        <p>Heineken </p>
+        <p>Cinderella   </p>
         <div className="line"></div>
         <p>6 ₼</p>
       </div>
       <div className="price">
-        <p>Carona </p>
+        <p>Margarita   </p>
         <div className="line"></div>
         <p>6 ₼</p>
       </div>
       <div className="price">
-        <p>Erdinger weissbier</p>
+        <p>Special   </p>
         <div className="line"></div>
-        <p>6 ₼</p>
+        <p>7 ₼</p>
       </div>
       <div className="price">
-        <p>Paulaner weissbier </p>
+        <p>Limonade   </p>
         <div className="line"></div>
-        <p>6 ₼</p>
+        <p>5 ₼</p>
       </div>
-      <div className="price">
-        <p>Paulaner Muncher Hell  </p>
-        <div className="line"></div>
-        <p>6 ₼</p>
       </div>
-    </div>
   )
 }
