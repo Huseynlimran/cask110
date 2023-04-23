@@ -1,7 +1,7 @@
 @use 'sass:math';
 $containerWidth:1176;
 $containerPadding:40;
-$containerSidePadding: math.div($containerPadding, 2);
+$containerSidePadding: math.div($containerPadding, 5);
 $breakpoint1200:1119.98 + px;
 $breakpoint992:991.98 + px;
 $breakpoint768:767.98 + px;
