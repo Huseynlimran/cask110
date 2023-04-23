@@ -9,6 +9,12 @@ import Noalcohol from "./Noalcohol";
 import Shots from "./Shots";
 import Raki from "./Raki";
 import Whisky from "./Whisky";
+import Liqueur from "./Liqueur";
+import Drinks from "./Drinks";
+import Hotdrinks from "./Hotdrinks";
+import Snacks from "./Snacks";
+import Food from "./Food";
+import Fruits from "./Fruits";
 
 export default function Cask() {
   return (
@@ -23,6 +29,12 @@ export default function Cask() {
       <Shots />
       <Raki />
       <Whisky />
+      <Liqueur />
+      <Drinks />
+      <Hotdrinks />
+      <Snacks />
+      <Food />
+      <Fruits />
     </div>
   );
 }
