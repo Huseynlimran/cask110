@@ -7,9 +7,14 @@ export default function Vodka() {
         <h1 className="title">Vodka</h1>
       </div>
       <div className="price">
-        <p>Vodka </p>
+        <p>Finlandia </p>
         <div className="line"></div>
-        <p>10 ₼</p>
+        <p>6 ₼</p>
+      </div>
+      <div className="price">
+        <p>Absolute </p>
+        <div className="line"></div>
+        <p>6 ₼</p>
       </div>
       
     </div>

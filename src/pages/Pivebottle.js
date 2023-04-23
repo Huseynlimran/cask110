@@ -24,32 +24,32 @@ export default function Pivebottle() {
       <div className="price">
         <p>Miller </p>
         <div className="line"></div>
-        <p>6 ₼</p>
+        <p>7 ₼</p>
       </div>
       <div className="price">
         <p>Heineken </p>
         <div className="line"></div>
-        <p>6 ₼</p>
+        <p>8 ₼</p>
       </div>
       <div className="price">
         <p>Carona </p>
         <div className="line"></div>
-        <p>6 ₼</p>
+        <p>8 ₼</p>
       </div>
       <div className="price">
         <p>Erdinger weissbier</p>
         <div className="line"></div>
-        <p>6 ₼</p>
+        <p>8 ₼</p>
       </div>
       <div className="price">
         <p>Paulaner weissbier </p>
         <div className="line"></div>
-        <p>6 ₼</p>
+        <p>8 ₼</p>
       </div>
       <div className="price">
         <p>Paulaner Muncher Hell  </p>
         <div className="line"></div>
-        <p>6 ₼</p>
+        <p>8 ₼</p>
       </div>
     </div>
   )

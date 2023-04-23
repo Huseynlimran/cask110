@@ -9,12 +9,12 @@ export default function Wine() {
       <div className="price">
         <p>Yerli </p>
         <div className="line"></div>
-        <p>10 ₼</p>
+        <p>4 ₼</p>
       </div>
       <div className="price">
         <p>Gurcu </p>
         <div className="line"></div>
-        <p>10 ₼</p>
+        <p>5 ₼</p>
       </div>
       
     </div>
