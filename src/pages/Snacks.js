@@ -61,11 +61,7 @@ export default function Snacks() {
         <div className="line"></div>
         <p>4 ₼</p>
       </div>
-      <div className="price">
-        <p>Iveriya Acili/Acisiz </p>
-        <div className="line"></div>
-        <p>5 ₼</p>
-      </div>
+
       <div className="price">
         <p>Toyuq Nagets </p>
         <div className="line"></div>
