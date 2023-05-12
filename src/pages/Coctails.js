@@ -54,7 +54,7 @@ export default function Coctails() {
       <div className="price">
         <p>Margarita </p>
         <div className="line"></div>
-        <p>10 ₼</p>
+        <p>11 ₼</p>
       </div>
       <div className="price">
         <p>Blue Hawaiian</p>
@@ -69,7 +69,7 @@ export default function Coctails() {
       <div className="price">
         <p>Long Island</p>
         <div className="line"></div>
-        <p>10 ₼</p>
+        <p>15 ₼</p>
       </div>
       <div className="price">
         <p>Sex on the Beach</p>

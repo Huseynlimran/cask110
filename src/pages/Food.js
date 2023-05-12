@@ -7,11 +7,6 @@ export default function Food() {
         <h1 className="title">Foods</h1>
       </div>
       <div className="price">
-        <p>Pomidor Yumurta </p>
-        <div className="line"></div>
-        <p>5 ₼</p>
-      </div>
-      <div className="price">
         <p>Tost  </p>
         <div className="line"></div>
         <p>3 ₼</p>

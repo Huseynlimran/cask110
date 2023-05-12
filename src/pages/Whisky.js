@@ -9,12 +9,12 @@ export default function Whisky() {
       <div className="price">
         <p>Jameson  </p>
         <div className="line"></div>
-        <p>6 ₼</p>
+        <p>7 ₼</p>
       </div>
       <div className="price">
         <p>Chivas Rega  </p>
         <div className="line"></div>
-        <p>7 ₼</p>
+        <p>8 ₼</p>
       </div>
       <div className="price">
         <p>Jony Walker Red Label   </p>
@@ -34,12 +34,12 @@ export default function Whisky() {
       <div className="price">
         <p>Jack Daniels  </p>
         <div className="line"></div>
-        <p>6 ₼</p>
+        <p>7 ₼</p>
       </div>
       <div className="price">
         <p>Jack Daniels Honey  </p>
         <div className="line"></div>
-        <p>6.50 ₼</p>
+        <p>7 ₼</p>
       </div>
       <div className="price">
         <p>Ballantines   </p>
