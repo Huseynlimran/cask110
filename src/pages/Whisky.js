@@ -16,7 +16,7 @@ export default function Whisky() {
         <div className="line"></div>
         <p>8 ₼</p>
       </div>
-      <div className="price">
+      {/* <div className="price">
         <p>Jony Walker Red Label   </p>
         <div className="line"></div>
         <p>5 ₼</p>
@@ -45,7 +45,7 @@ export default function Whisky() {
         <p>Ballantines   </p>
         <div className="line"></div>
         <p>6 ₼</p>
-      </div>
+      </div> */}
     </div>
   )
 }
