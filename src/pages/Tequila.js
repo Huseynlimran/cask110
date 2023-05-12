@@ -11,11 +11,7 @@ export default function Tequila() {
       <div className="line"></div>
       <p>5 ₼</p>
     </div>
-    <div className="price">
-      <p>Olmeca Silver</p>
-      <div className="line"></div>
-      <p>6 ₼</p>
-    </div>
+  
   </div>
   )
 }
