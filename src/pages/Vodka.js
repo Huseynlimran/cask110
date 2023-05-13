@@ -16,6 +16,11 @@ export default function Vodka() {
         <div className="line"></div>
         <p>5 ₼</p>
       </div>
+        <div className="price">
+        <p>Local vodka </p>
+       <div className="line"></div>
+        <p>3.50 ₼</p>
+      </div>
       
     </div>
   );
