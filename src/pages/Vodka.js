@@ -9,12 +9,12 @@ export default function Vodka() {
       <div className="price">
         <p>Finlandia </p>
         <div className="line"></div>
-        <p>6 ₼</p>
+        <p>5 ₼</p>
       </div>
       <div className="price">
         <p>Absolute </p>
         <div className="line"></div>
-        <p>6 ₼</p>
+        <p>5 ₼</p>
       </div>
       
     </div>
