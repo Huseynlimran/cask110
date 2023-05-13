@@ -52,11 +52,7 @@ export default function Snacks() {
         <div className="line"></div>
         <p>4 ₼</p>
       </div>
-      <div className="price">
-        <p>Petene  </p>
-        <div className="line"></div>
-        <p>4 ₼</p>
-      </div>
+ 
 
       <div className="price">
         <p>Toyuq Nagets </p>
