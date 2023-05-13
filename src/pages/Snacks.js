@@ -31,11 +31,7 @@ export default function Snacks() {
         <div className="line"></div>
         <p>4 ₼</p>
       </div>
-      <div className="price">
-        <p>Noxud Qizartma </p>
-        <div className="line"></div>
-        <p>4 ₼</p>
-      </div>
+    
       <div className="price">
         <p>Suxari </p>
         <div className="line"></div>
@@ -67,16 +63,8 @@ export default function Snacks() {
         <div className="line"></div>
         <p>5 ₼</p>
       </div>
-      <div className="price">
-        <p>Et Basdirma </p>
-        <div className="line"></div>
-        <p>6 ₼</p>
-      </div>
-      <div className="price">
-        <p>Qrenki  </p>
-        <div className="line"></div>
-        <p>4 ₼</p>
-      </div>
+     
+    
       <div className="price">
         <p>Free  </p>
         <div className="line"></div>
@@ -107,16 +95,7 @@ export default function Snacks() {
         <div className="line"></div>
         <p>12 ₼</p>
       </div>
-      <div className="price">
-        <p>Krevetka Tempura  </p>
-        <div className="line"></div>
-        <p>18 ₼</p>
-      </div>
-      <div className="price">
-        <p>Xengel Qizartma   </p>
-        <div className="line"></div>
-        <p>1.50 ₼</p>
-      </div>
+   
     </div>
   )
 }
