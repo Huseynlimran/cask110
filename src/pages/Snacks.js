@@ -35,12 +35,12 @@ export default function Snacks() {
       <div className="price">
         <p>Suxari </p>
         <div className="line"></div>
-        <p>2 ₼</p>
+        <p>3 ₼</p>
       </div>
       <div className="price">
         <p>Cips </p>
         <div className="line"></div>
-        <p>2 ₼</p>
+        <p>3 ₼</p>
       </div>
       <div className="price">
         <p>Bildircin Hise verilmiş </p>
