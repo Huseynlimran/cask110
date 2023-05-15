@@ -9,7 +9,7 @@ export default function Shots() {
       <div className="price">
         <p>Tequila 6  </p>
         <div className="line"></div>
-        <p>22 ₼</p>
+        <p>25 ₼</p>
       </div>
       <div className="price">
         <p>Jagermeister  6  </p>
