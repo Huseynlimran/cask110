@@ -11,10 +11,16 @@ export default function Whisky() {
         <div className="line"></div>
         <p>7 ₼</p>
       </div>
+      
       <div className="price">
         <p>Chivas Rega  </p>
         <div className="line"></div>
         <p>8 ₼</p>
+      </div>
+        <div className="price">
+        <p>Local Whisky Cola  </p>
+        <div className="line"></div>
+        <p>5 ₼</p>
       </div>
       {/* <div className="price">
         <p>Jony Walker Red Label   </p>
