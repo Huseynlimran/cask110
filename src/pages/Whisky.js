@@ -11,7 +11,6 @@ export default function Whisky() {
         <div className="line"></div>
         <p>7 ₼</p>
       </div>
-      
       <div className="price">
         <p>Chivas Rega  </p>
         <div className="line"></div>

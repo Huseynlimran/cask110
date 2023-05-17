@@ -15,6 +15,7 @@ import Hotdrinks from "./Hotdrinks";
 import Snacks from "./Snacks";
 import Food from "./Food";
 import Fruits from "./Fruits";
+import Cigarettes from "./Cigarettes";
 
 export default function Cask() {
   return (
@@ -35,6 +36,7 @@ export default function Cask() {
       <Snacks />
       <Food />
       <Fruits />
+      <Cigarettes />
     </div>
   );
 }
