@@ -67,9 +67,9 @@ export default function Snacks() {
      
     
       <div className="price">
-        <p>Free  </p>
+        <p>Fri  </p>
         <div className="line"></div>
-        <p>3 ₼</p>
+        <p>4 ₼</p>
       </div>
       <div className="price">
         <p>Semicka   </p>
