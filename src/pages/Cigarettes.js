@@ -11,6 +11,11 @@ export default function Cigarettes() {
         <div className="line"></div>
         <p>6 ₼</p>
       </div>
+       <div className="price">
+        <p> Shisha </p>
+        <div className="line"></div>
+        <p>25 ₼</p>
+      </div>
     </div>
   )
 }
