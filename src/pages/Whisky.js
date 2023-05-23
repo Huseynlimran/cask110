@@ -12,7 +12,7 @@ export default function Whisky() {
         <p>7 ₼</p>
       </div>
       <div className="price">
-        <p>Chivas Rega  </p>
+        <p>Chivas Regal  </p>
         <div className="line"></div>
         <p>8 ₼</p>
       </div>
