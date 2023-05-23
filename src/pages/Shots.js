@@ -29,7 +29,7 @@ export default function Shots() {
       <div className="price">
         <p>Shot 6  </p>
         <div className="line"></div>
-        <p>6 ₼</p>
+        <p>8 ₼</p>
       </div>
     </div>
   )
