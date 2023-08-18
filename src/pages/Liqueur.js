@@ -9,27 +9,27 @@ export default function Liqueur() {
       <div className="price">
         <p>Jagermeister  </p>
         <div className="line"></div>
-        <p>5 ₼</p>
+        <p>4 ₼</p>
       </div>
       <div className="price">
         <p>Kahlua </p>
         <div className="line"></div>
-        <p>7 ₼</p>
+        <p>6 ₼</p>
       </div>
       <div className="price">
         <p>Baileys   </p>
         <div className="line"></div>
-        <p>7 ₼</p>
+        <p>6 ₼</p>
       </div>
       <div className="price">
         <p>Sambuca   </p>
         <div className="line"></div>
-        <p>8 ₼</p>
+        <p>7 ₼</p>
       </div>
       <div className="price">
         <p>Absente  </p>
         <div className="line"></div>
-        <p>10 ₼</p>
+        <p>8 ₼</p>
       </div>
     </div>
   )
