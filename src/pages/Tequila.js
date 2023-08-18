@@ -9,7 +9,7 @@ export default function Tequila() {
     <div className="price">
       <p>Sierra Silver </p>
       <div className="line"></div>
-      <p>5 ₼</p>
+      <p>3.50 ₼</p>
     </div>
   
   </div>
