@@ -9,7 +9,7 @@ export default function Noalcohol() {
       <div className="price">
         <p>Mojito  </p>
         <div className="line"></div>
-        <p>6 ₼</p>
+        <p>5 ₼</p>
       </div>
  
     
@@ -17,7 +17,7 @@ export default function Noalcohol() {
       <div className="price">
         <p>Limonade   </p>
         <div className="line"></div>
-        <p>5 ₼</p>
+        <p>4.50 ₼</p>
       </div>
       </div>
   )
