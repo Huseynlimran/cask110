@@ -16,10 +16,15 @@ export default function Pivebottle() {
       <div className="price">
         <p>Miller </p>
         <div className="line"></div>
-        <p>7 ₼</p>
+        <p>6 ₼</p>
       </div>
       <div className="price">
         <p>Heineken </p>
+        <div className="line"></div>
+        <p>7 ₼</p>
+      </div>
+          <div className="price">
+        <p>Carona </p>
         <div className="line"></div>
         <p>8 ₼</p>
       </div>
