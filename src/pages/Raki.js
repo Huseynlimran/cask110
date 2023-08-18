@@ -9,7 +9,7 @@ export default function Raki() {
       <div className="price">
         <p>Yeni Raki </p>
         <div className="line"></div>
-        <p>10 ₼</p>
+        <p>8 ₼</p>
       </div>
     </div>
   );
