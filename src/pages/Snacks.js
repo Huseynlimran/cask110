@@ -9,22 +9,22 @@ export default function Snacks() {
       <div className="price">
         <p>Sacaqli Pendir  </p>
         <div className="line"></div>
-        <p>3 ₼</p>
+        <p>2.50 ₼</p>
       </div>
       <div className="price">
         <p>Qizardilmis Pendir  </p>
         <div className="line"></div>
-        <p>3.50 ₼</p>
+        <p>3 ₼</p>
       </div>
       <div className="price">
         <p>Dusbere </p>
         <div className="line"></div>
-        <p>4.50 ₼</p>
+        <p>4 ₼</p>
       </div>
        <div className="price">
         <p>Petene </p>
         <div className="line"></div>
-        <p>6 ₼</p>
+        <p>4.50 ₼</p>
       </div>
        <div className="price">
         <p>Fimi </p>
@@ -34,23 +34,23 @@ export default function Snacks() {
       <div className="price">
         <p>Noxud </p>
         <div className="line"></div>
-        <p>3 ₼</p>
+        <p>2.50 ₼</p>
       </div>
       <div className="price">
         <p>Bogaz </p>
         <div className="line"></div>
-        <p>4 ₼</p>
+        <p>3.50 ₼</p>
       </div>
     
       <div className="price">
         <p>Suxari </p>
         <div className="line"></div>
-        <p>3 ₼</p>
+        <p>2.50 ₼</p>
       </div>
       <div className="price">
         <p>Cips </p>
         <div className="line"></div>
-        <p>3 ₼</p>
+        <p>2.50 ₼</p>
       </div>
       <div className="price">
         <p>Bildircin Hise verilmiş </p>
@@ -74,7 +74,7 @@ export default function Snacks() {
       <div className="price">
         <p>Fri  </p>
         <div className="line"></div>
-        <p>4 ₼</p>
+        <p>3 ₼</p>
       </div>
       <div className="price">
         <p>Semicka   </p>
@@ -89,7 +89,7 @@ export default function Snacks() {
       <div className="price">
         <p>Puste   </p>
         <div className="line"></div>
-        <p>5 ₼</p>
+        <p>6 ₼</p>
       </div>
       <div className="price">
         <p>Farel hise verilmiş  </p>
