@@ -14,7 +14,12 @@ export default function Hotdrinks() {
     <div className="price">
       <p>Nescafe </p>
       <div className="line"></div>
-      <p>2.50 ₼</p>
+      <p>3 ₼</p>
+    </div>
+      <div className="price">
+      <p>Cappuccino </p>
+      <div className="line"></div>
+      <p>3.50 ₼</p>
     </div>
     </div>
   )
