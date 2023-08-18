@@ -22,9 +22,9 @@ export default function Fruits() {
         <p>5 ₼</p>
       </div>
       <div className="price">
-        <p>Set(20) </p>
+        <p>Set </p>
         <div className="line"></div>
-        <p>20 ₼</p>
+        <p>15 ₼</p>
       </div>
     </div>
   );
