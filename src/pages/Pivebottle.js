@@ -28,6 +28,11 @@ export default function Pivebottle() {
         <div className="line"></div>
         <p>8 ₼</p>
       </div>
+    <div className="price">
+        <p>Zero </p>
+        <div className="line"></div>
+        <p>5 ₼</p>
+      </div>
       
     
      
