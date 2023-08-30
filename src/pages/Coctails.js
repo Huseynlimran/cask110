@@ -9,7 +9,7 @@ export default function Coctails() {
       <div className="price">
         <p>Gin Tonic </p>
         <div className="line"></div>
-        <p>7 ₼</p>
+        <p>8 ₼</p>
       </div>
       <div className="price">
         <p>Fin Tonic</p>
